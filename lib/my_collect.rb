@@ -8,5 +8,3 @@ def my_collect(array)
   end
   array2
 end
-
-
